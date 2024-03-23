@@ -1,0 +1,9 @@
+nextcord
+pypresence
+colorama
+asyncio
+pytube
+spotipy
+PyNaCl
+youtube_dl
+cachetools
