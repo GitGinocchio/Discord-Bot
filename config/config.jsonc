@@ -1,11 +1,11 @@
 {
     // Constants
-    "TOKEN": "USER_YOUR_TOKEN_HERE",
-    "PUBLIC_KEY": "USER_YOUR_PUBLIC_KEY_HERE",
+    "TOKEN": "USE_YOUR_TOKEN_HERE",
+    "PUBLIC_KEY": "USE_YOUR_PUBLIC_KEY_HERE",
     "INVITE_URL": "https://discord.com/api/oauth2/authorize?client_id={}&permissions={}&scope=bot",
-    "APPLICATION_ID": 00000000000,
-    "CLIENT_ID": 00000000000,
-    "CLIENT_SECRET" : "USER_YOUR_CLIENT_SECRET_HERE",
+    "APPLICATION_ID": 0,
+    "CLIENT_ID": 0,
+    "CLIENT_SECRET" : "USE_YOUR_CLIENT_SECRET_HERE",
     "COMMAND_PREFIX": "/",
 
     // Bot settings
