@@ -1,4 +1,4 @@
-# GGsBot
+# Discord-Music-Bot
 
 A simple bot for managing your Discord server, with music, minigames, and more!
 
